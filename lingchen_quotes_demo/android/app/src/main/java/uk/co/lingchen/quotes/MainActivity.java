@@ -1,4 +1,4 @@
-package uk.co.thenetninja.quotes;
+package uk.co.lingchen.quotes;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
